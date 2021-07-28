@@ -1,5 +1,4 @@
 import streamlit as st
-import sqlite3
 
 @st.cache
 def write_about_company(name):
